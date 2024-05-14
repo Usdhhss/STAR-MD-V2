@@ -7,10 +7,10 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['', 'ROMEK-XD', true], 
-  ['918433897160', 'ARYAN-XD', true], 
-  ['', 'ROMEK-XD', true],
-  ['918433897160', 'ARYAN-XD', true] ]
+  ['', 'WISH-Master', true], 
+  ['917005439105', 'WISH-MASTER', true], 
+  ['', 'WISH-MASTER', true],
+  ['917005439105', 'WISH-MASTER', true] ]
 
  //Number of owners
 
@@ -53,11 +53,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝑅𝛩𝛭𝛯𝛫-𝛸𝐷'
+global.botname = '𝒘𝒊𝒔𝒉-𝒎𝒂𝒔𝒕𝒆𝒓'
 global.premium = 'true'
-global.packname = 'ROMEK-XD' 
-global.author = '919341378016' 
-global.menuvid = 'https://i.imgur.com/aZoNiJV.mp4'
+global.packname = 'WISH-MASTER' 
+global.author = '917005439105' 
+global.menuvid = 'https://i.imgur.com/rh1puCr.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaNdKNxK5cDKRztKXV3g\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Hbb23H4Ny4RIc3I83S9PEv\n'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
